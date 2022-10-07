@@ -1,6 +1,7 @@
 {
-  "homepage": "https://moh1idris.github.io/TextUtils",
+
   "name": "textutils",
+  "homepage": "https://moh1idris.github.io/TextUtils-React-01",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
